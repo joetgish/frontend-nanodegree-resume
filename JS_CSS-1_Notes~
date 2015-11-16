@@ -1,0 +1,89 @@
+Have install fest prior to class
+
+Addie Plan for Students - last 3 weeks
+
+
+Make worksheet to work from basic Ubuntu image to:
+1. g++ update
+2. git install
+3. git config updates
+4. change git globals - in file
+5. Install and launch Sublime
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get install sublime-text-installer
+6. install chrome due to developer tools
+sudo apt-get update
+sudo apt-get install google-chrome-stable
+to launch: google-chrome
+
+
+
+The command to start Sublime Text: subl
+Set up w/ Sublime text - already configured with helpful features of GitHub
+
+Do Udacity JS and challenge
+
+Bring Earbuds
+Discuss watching JS in Host OS - FF or Guest OS FF; may be switching problems which preempts sound working properly.
+
+When instructors talk you through the code, view the code on your laptop, using your tools.
+Read the comments in index.html...
+Use the sublime editor - to work on this - it has syntax highlighting...
+
+Maybe a paper printout of index.html?
+
+
+
+Light on HTML/CSS
+refer to W3C schools for HTMl - may be a first workshop - and make a page
+This is lightly introduced in Udacity JS course. references are useful to work through.
+This is first case of "Earn your knowledge"
+Also, consider working through lightly on CSS in W3C schools and links in Udacity Site
+
+What is jQuery? -> Framework! :) 3rd party library
+
+Build IDE to work seamlessly
+
+Build web server (AWS or not) with students 
+
+Lesson 0  - Quizzes
+What is div?
+What are strategies?
+Have an open quiz?
+
+2 tools
+Text editor to code
+Browser + developer tools - inspect the means the web sites load and run
+
+Use Chrome dev Tools as essential to success
+Install fest should require students to work through details of utilities install.
+What are command statement to confirm correct install?
+
+May have to replay lessons several times...
+
+What is basic print command for JS?
+Does JS require ;?
+What is undefined?
+
+
+$(".super-header-wrapper").html("<img style='width:100%' src='http://goo.gl/WCrBmS'>");
+
+Which indicates that you are using jquery...
+
+Local copy, not actual web site...
+Instructors bounce back and forth between pages - stay nimble!
+
+Resume Builder.js should have:
+/*
+This is empty on purpose! Your code to build the resume will go here.
+ */
+ $("#main").append("Joseph");
+ 
+ The syntax in the video is sloppy - could be more precise..
+ 
+
+
+ 
+
+
